@@ -2,7 +2,7 @@
 Unified REST API for cryptocurrencies markets.
 
 # Documentation
-> API Entry Endpoint ------> [https://coinspawn.info/api3](https://coinspawn.info/api3)
+API Entry Endpoint ------> [https://coinspawn.info/api3](https://coinspawn.info/api3)
 Documentation is avaliable here ------> [https://coinspawn.info/doc](https://coinspawn.info/doc)
 # About
 REST API is open and not needing an authentication. Requests limited to 60 per one minute. 
